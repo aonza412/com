@@ -1,0 +1,10 @@
+C:\Users\aonza412\Desktop\งานคอม\from ชื่อ\from ชื่อ\bin\Debug\from ชื่อ.exe.config
+C:\Users\aonza412\Desktop\งานคอม\from ชื่อ\from ชื่อ\bin\Debug\from ชื่อ.exe
+C:\Users\aonza412\Desktop\งานคอม\from ชื่อ\from ชื่อ\bin\Debug\from ชื่อ.pdb
+C:\Users\aonza412\Desktop\งานคอม\from ชื่อ\from ชื่อ\obj\Debug\from ชื่อ.csprojResolveAssemblyReference.cache
+C:\Users\aonza412\Desktop\งานคอม\from ชื่อ\from ชื่อ\obj\Debug\from_ชื่อ.Form1.resources
+C:\Users\aonza412\Desktop\งานคอม\from ชื่อ\from ชื่อ\obj\Debug\from_ชื่อ.Properties.Resources.resources
+C:\Users\aonza412\Desktop\งานคอม\from ชื่อ\from ชื่อ\obj\Debug\from ชื่อ.csproj.GenerateResource.Cache
+C:\Users\aonza412\Desktop\งานคอม\from ชื่อ\from ชื่อ\obj\Debug\from ชื่อ.exe
+C:\Users\aonza412\Desktop\งานคอม\from ชื่อ\from ชื่อ\obj\Debug\from ชื่อ.pdb
+C:\Users\aonza412\Desktop\งานคอม\from ชื่อ\from ชื่อ\obj\Debug\from_ชื่อ.Form2.resources

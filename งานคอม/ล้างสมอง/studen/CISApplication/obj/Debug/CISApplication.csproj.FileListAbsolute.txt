@@ -1,0 +1,12 @@
+C:\Users\aonza412\Desktop\งานคอม\ล้างสมอง\studen\CISApplication\bin\Debug\CISApplication.exe.config
+C:\Users\aonza412\Desktop\งานคอม\ล้างสมอง\studen\CISApplication\bin\Debug\CISApplication.exe
+C:\Users\aonza412\Desktop\งานคอม\ล้างสมอง\studen\CISApplication\bin\Debug\CISApplication.pdb
+C:\Users\aonza412\Desktop\งานคอม\ล้างสมอง\studen\CISApplication\obj\Debug\CISApplication.csprojResolveAssemblyReference.cache
+C:\Users\aonza412\Desktop\งานคอม\ล้างสมอง\studen\CISApplication\obj\Debug\CISApplication.Form1.resources
+C:\Users\aonza412\Desktop\งานคอม\ล้างสมอง\studen\CISApplication\obj\Debug\CISApplication.Properties.Resources.resources
+C:\Users\aonza412\Desktop\งานคอม\ล้างสมอง\studen\CISApplication\obj\Debug\CISApplication.csproj.GenerateResource.Cache
+C:\Users\aonza412\Desktop\งานคอม\ล้างสมอง\studen\CISApplication\obj\Debug\CISApplication.exe
+C:\Users\aonza412\Desktop\งานคอม\ล้างสมอง\studen\CISApplication\obj\Debug\CISApplication.pdb
+C:\Users\aonza412\Desktop\งานคอม\ล้างสมอง\studen\CISApplication\bin\Debug\studen.dll
+C:\Users\aonza412\Desktop\งานคอม\ล้างสมอง\studen\CISApplication\bin\Debug\studen.pdb
+C:\Users\aonza412\Desktop\งานคอม\ล้างสมอง\studen\CISApplication\obj\Debug\CISApplication.BaseForm.resources

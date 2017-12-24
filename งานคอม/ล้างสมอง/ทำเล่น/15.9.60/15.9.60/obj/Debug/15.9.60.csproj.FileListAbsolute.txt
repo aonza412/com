@@ -1,0 +1,6 @@
+C:\Users\aonza412\Desktop\งานคอม\ทำเล่น\15.9.60\15.9.60\bin\Debug\15.9.60.exe.config
+C:\Users\aonza412\Desktop\งานคอม\ทำเล่น\15.9.60\15.9.60\bin\Debug\15.9.60.exe
+C:\Users\aonza412\Desktop\งานคอม\ทำเล่น\15.9.60\15.9.60\bin\Debug\15.9.60.pdb
+C:\Users\aonza412\Desktop\งานคอม\ทำเล่น\15.9.60\15.9.60\obj\Debug\15.9.60.csprojResolveAssemblyReference.cache
+C:\Users\aonza412\Desktop\งานคอม\ทำเล่น\15.9.60\15.9.60\obj\Debug\15.9.60.exe
+C:\Users\aonza412\Desktop\งานคอม\ทำเล่น\15.9.60\15.9.60\obj\Debug\15.9.60.pdb

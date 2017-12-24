@@ -1,0 +1,8 @@
+C:\Users\aonza412\Desktop\งานคอม\คำนวน\เกรด\เกรด\bin\Debug\เกรด.exe.config
+C:\Users\aonza412\Desktop\งานคอม\คำนวน\เกรด\เกรด\bin\Debug\เกรด.exe
+C:\Users\aonza412\Desktop\งานคอม\คำนวน\เกรด\เกรด\bin\Debug\เกรด.pdb
+C:\Users\aonza412\Desktop\งานคอม\คำนวน\เกรด\เกรด\obj\Debug\เกรด.Form1.resources
+C:\Users\aonza412\Desktop\งานคอม\คำนวน\เกรด\เกรด\obj\Debug\เกรด.Properties.Resources.resources
+C:\Users\aonza412\Desktop\งานคอม\คำนวน\เกรด\เกรด\obj\Debug\เกรด.csproj.GenerateResource.Cache
+C:\Users\aonza412\Desktop\งานคอม\คำนวน\เกรด\เกรด\obj\Debug\เกรด.exe
+C:\Users\aonza412\Desktop\งานคอม\คำนวน\เกรด\เกรด\obj\Debug\เกรด.pdb

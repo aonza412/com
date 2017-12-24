@@ -1,0 +1,6 @@
+C:\Users\aonza412\Desktop\งานคอม\ASS02\ASS02\bin\Debug\ASS02.exe.config
+C:\Users\aonza412\Desktop\งานคอม\ASS02\ASS02\bin\Debug\ASS02.exe
+C:\Users\aonza412\Desktop\งานคอม\ASS02\ASS02\bin\Debug\ASS02.pdb
+C:\Users\aonza412\Desktop\งานคอม\ASS02\ASS02\obj\Debug\ASS02.csprojResolveAssemblyReference.cache
+C:\Users\aonza412\Desktop\งานคอม\ASS02\ASS02\obj\Debug\ASS02.exe
+C:\Users\aonza412\Desktop\งานคอม\ASS02\ASS02\obj\Debug\ASS02.pdb

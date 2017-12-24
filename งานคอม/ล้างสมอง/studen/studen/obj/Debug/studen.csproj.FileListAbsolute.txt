@@ -1,0 +1,4 @@
+C:\Users\aonza412\Desktop\งานคอม\ล้างสมอง\studen\studen\bin\Debug\studen.dll
+C:\Users\aonza412\Desktop\งานคอม\ล้างสมอง\studen\studen\bin\Debug\studen.pdb
+C:\Users\aonza412\Desktop\งานคอม\ล้างสมอง\studen\studen\obj\Debug\studen.dll
+C:\Users\aonza412\Desktop\งานคอม\ล้างสมอง\studen\studen\obj\Debug\studen.pdb

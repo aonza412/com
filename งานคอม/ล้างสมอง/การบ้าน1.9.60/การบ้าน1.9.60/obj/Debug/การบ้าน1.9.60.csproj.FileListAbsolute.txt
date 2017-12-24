@@ -1,0 +1,6 @@
+C:\Users\aonza412\Desktop\งานคอม\การบ้าน1.9.60\การบ้าน1.9.60\bin\Debug\การบ้าน1.9.60.exe.config
+C:\Users\aonza412\Desktop\งานคอม\การบ้าน1.9.60\การบ้าน1.9.60\bin\Debug\การบ้าน1.9.60.exe
+C:\Users\aonza412\Desktop\งานคอม\การบ้าน1.9.60\การบ้าน1.9.60\bin\Debug\การบ้าน1.9.60.pdb
+C:\Users\aonza412\Desktop\งานคอม\การบ้าน1.9.60\การบ้าน1.9.60\obj\Debug\การบ้าน1.9.60.csprojResolveAssemblyReference.cache
+C:\Users\aonza412\Desktop\งานคอม\การบ้าน1.9.60\การบ้าน1.9.60\obj\Debug\การบ้าน1.9.60.exe
+C:\Users\aonza412\Desktop\งานคอม\การบ้าน1.9.60\การบ้าน1.9.60\obj\Debug\การบ้าน1.9.60.pdb

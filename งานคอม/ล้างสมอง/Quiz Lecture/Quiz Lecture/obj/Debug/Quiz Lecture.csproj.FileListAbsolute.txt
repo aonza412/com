@@ -1,0 +1,6 @@
+C:\Users\aonza412\Desktop\งานคอม\Quiz Lecture\Quiz Lecture\bin\Debug\Quiz Lecture.exe.config
+C:\Users\aonza412\Desktop\งานคอม\Quiz Lecture\Quiz Lecture\bin\Debug\Quiz Lecture.exe
+C:\Users\aonza412\Desktop\งานคอม\Quiz Lecture\Quiz Lecture\bin\Debug\Quiz Lecture.pdb
+C:\Users\aonza412\Desktop\งานคอม\Quiz Lecture\Quiz Lecture\obj\Debug\Quiz Lecture.csprojResolveAssemblyReference.cache
+C:\Users\aonza412\Desktop\งานคอม\Quiz Lecture\Quiz Lecture\obj\Debug\Quiz Lecture.exe
+C:\Users\aonza412\Desktop\งานคอม\Quiz Lecture\Quiz Lecture\obj\Debug\Quiz Lecture.pdb

@@ -1,0 +1,6 @@
+C:\Users\aonza412\Desktop\งานคอม\Quiz02\Quiz02\bin\Debug\Quiz02.exe.config
+C:\Users\aonza412\Desktop\งานคอม\Quiz02\Quiz02\bin\Debug\Quiz02.exe
+C:\Users\aonza412\Desktop\งานคอม\Quiz02\Quiz02\bin\Debug\Quiz02.pdb
+C:\Users\aonza412\Desktop\งานคอม\Quiz02\Quiz02\obj\Debug\Quiz02.csprojResolveAssemblyReference.cache
+C:\Users\aonza412\Desktop\งานคอม\Quiz02\Quiz02\obj\Debug\Quiz02.exe
+C:\Users\aonza412\Desktop\งานคอม\Quiz02\Quiz02\obj\Debug\Quiz02.pdb

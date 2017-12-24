@@ -1,0 +1,6 @@
+C:\Users\aonza412\Desktop\งานคอม\การบ้าน6.9.60\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\aonza412\Desktop\งานคอม\การบ้าน6.9.60\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\aonza412\Desktop\งานคอม\การบ้าน6.9.60\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\aonza412\Desktop\งานคอม\การบ้าน6.9.60\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\aonza412\Desktop\งานคอม\การบ้าน6.9.60\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\aonza412\Desktop\งานคอม\การบ้าน6.9.60\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

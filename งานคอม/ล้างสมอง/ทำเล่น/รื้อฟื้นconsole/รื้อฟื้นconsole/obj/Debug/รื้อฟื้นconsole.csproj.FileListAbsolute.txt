@@ -1,0 +1,6 @@
+C:\Users\aonza412\Desktop\งานคอม\ทำเล่น\รื้อฟื้นconsole\รื้อฟื้นconsole\bin\Debug\รื้อฟื้นconsole.exe.config
+C:\Users\aonza412\Desktop\งานคอม\ทำเล่น\รื้อฟื้นconsole\รื้อฟื้นconsole\bin\Debug\รื้อฟื้นconsole.exe
+C:\Users\aonza412\Desktop\งานคอม\ทำเล่น\รื้อฟื้นconsole\รื้อฟื้นconsole\bin\Debug\รื้อฟื้นconsole.pdb
+C:\Users\aonza412\Desktop\งานคอม\ทำเล่น\รื้อฟื้นconsole\รื้อฟื้นconsole\obj\Debug\รื้อฟื้นconsole.csprojResolveAssemblyReference.cache
+C:\Users\aonza412\Desktop\งานคอม\ทำเล่น\รื้อฟื้นconsole\รื้อฟื้นconsole\obj\Debug\รื้อฟื้นconsole.exe
+C:\Users\aonza412\Desktop\งานคอม\ทำเล่น\รื้อฟื้นconsole\รื้อฟื้นconsole\obj\Debug\รื้อฟื้นconsole.pdb

@@ -1,0 +1,6 @@
+C:\Users\aonza412\Desktop\งานคอม\ล้างสมอง\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\aonza412\Desktop\งานคอม\ล้างสมอง\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Users\aonza412\Desktop\งานคอม\ล้างสมอง\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Users\aonza412\Desktop\งานคอม\ล้างสมอง\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
+C:\Users\aonza412\Desktop\งานคอม\ล้างสมอง\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\aonza412\Desktop\งานคอม\ล้างสมอง\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
